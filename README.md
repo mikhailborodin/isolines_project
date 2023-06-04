@@ -18,10 +18,17 @@ The Isoline Generation Service is a web API that allows you to generate spatial 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-repo/isoline-generation-service.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Set up the Django project: `python manage.py migrate`
-4. Start the development server: `python manage.py runserver`
+1. Install the required dependencies: `pip install -r requirements.txt`
+2. Set up the Django project: `python manage.py migrate`
+3. Start the development server: `python manage.py runserver`
+
+## Tests
+
+1. Run the unit tests `python manage.py test`
+
+## Documentation
+
+![schema.jpg](docs%2Fschema.jpg)
 
 ## API Endpoint
 
